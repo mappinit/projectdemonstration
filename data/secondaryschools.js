@@ -1,0 +1,21 @@
+var primaryschools = {"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.00163999,7.22645443]},"properties":{"Name":"Ayetoro Community Grammer School","Type of Fa":"Secondary School","Functiiona":"Functional","X":3.00163999,"Y":7.22645443}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[4.02022094,6.84166996]},"properties":{"Name":"ijebu North East itamarun community school","Type of Fa":"Secondary School","Functiiona":"Functional","X":4.02022094,"Y":6.84166996}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.36098492,7.12144836]},"properties":{"Name":"Magbon community(Secondary school)","Type of Fa":"Secondary School","Functiiona":"Functional","X":3.36098492,"Y":7.12144836}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[2.9192268,6.5561851]},"properties":{"Name":"Mrs okoniyon sb","Type of Fa":"Secondary","Functiiona":"Functional","X":2.9192268,"Y":6.5561851}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[4.0059458,6.7492874]},"properties":{"Name":"Egba Odeda High School","Type of Fa":"Secondary","Functiiona":"Functional","X":4.0059458,"Y":6.7492874}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.5254619,7.2306521]},"properties":{"Name":"Orile Ilugun Comprehensive High School, Senior.","Type of Fa":"Secondary","Functiiona":"Functional","X":3.5254619,"Y":7.2306521}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.6679031,7.3749462]},"properties":{"Name":"Orile ilugun comprehensive high school senior","Type of Fa":"Secondary","Functiiona":"Functional","X":3.6679031,"Y":7.3749462}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[2.7802754,6.5061337]},"properties":{"Name":"Had a community high school ipokia","Type of Fa":"Secondary","Functiiona":"Functional","X":2.7802754,"Y":6.5061337}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[2.7747345,6.4870909]},"properties":{"Name":"Agunbiade","Type of Fa":"Secondary","Functiiona":"Functional","X":2.7747345,"Y":6.4870909}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.768771,6.8473]},"properties":{"Name":"Efire community high school","Type of Fa":"Secondary","Functiiona":"Functional","X":3.768771,"Y":6.8473}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.768852,6.8474815]},"properties":{"Name":"Baptist day school","Type of Fa":"Secondary","Functiiona":"Functional","X":3.768852,"Y":6.8474815}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[4.1680994,6.6425196]},"properties":{"Name":"Oke imobi grammar school","Type of Fa":"Secondary","Functiiona":"Functional","X":4.1680994,"Y":6.6425196}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.1914917,6.9522326]},"properties":{"Name":"Ilogbo Asowo community high school","Type of Fa":"Secondary","Functiiona":"Functional","X":3.1914917,"Y":6.9522326}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.4953683,7.3096575]},"properties":{"Name":"Community Senior and Junior secondary Ebutte lekki","Type of Fa":"Secondary","Functiiona":"Functional","X":3.4953683,"Y":7.3096575}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.3738,7.3196454]},"properties":{"Name":"Iwoye Area Junior High School","Type of Fa":"Secondary","Functiiona":"Functional","X":3.3738,"Y":7.3196454}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.0067118,7.2328163]},"properties":{"Name":"Ayetoro Community Grammer School","Type of Fa":"Secondary","Functiiona":"Functional","X":3.0067118,"Y":7.2328163}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[2.9854034,7.0446631]},"properties":{"Name":"Community high school,awotunde,ehin-osun","Type of Fa":"Secondary","Functiiona":"Functional","X":2.9854034,"Y":7.0446631}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[2.8549177,6.9358583]},"properties":{"Name":"Owode ketu","Type of Fa":"Secondary","Functiiona":"Functional","X":2.8549177,"Y":6.9358583}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[4.1995633,6.7021401]},"properties":{"Name":"St Michael Anglican school","Type of Fa":"","Functiiona":"Functional","X":4.1995633,"Y":6.7021401}}
+]}
